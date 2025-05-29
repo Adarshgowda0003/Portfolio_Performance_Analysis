@@ -1,4 +1,9 @@
 # Portfolio Performance Analysis
+## Project Screenshots
+Here are some key visuals from the project:
+![Dashboard Screenshot](./visuals/dashboard_screenshot.png)
+![Dashboard Screenshot 1](./visuals/Screenshot (29).png)
+![Dashboard Screenshot 2](./visuals/Screenshot (39).png)
 
 This project demonstrates portfolio performance analysis using Python, Excel, and Microsoft Power BI. It covers data collection, processing, visualization, and performance metrics to help investors make informed decisions.
 
